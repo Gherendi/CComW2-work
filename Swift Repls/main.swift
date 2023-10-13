@@ -9,3 +9,6 @@ import Foundation
 
 print("Hello, CcomW2!")
 
+for i in 1..<10 {
+    print("Hello")
+}
